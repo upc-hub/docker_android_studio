@@ -20,7 +20,7 @@ It is needed to install Docker. Then,
 >>docker pull pollen5005/android_studio_hh:v1
 ```
 
-### How to get the project
+### Setting the project for User
 ```
 1. git clone (or) download the project zip 
 2. put the project under each user session of the server.
