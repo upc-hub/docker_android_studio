@@ -4,18 +4,23 @@ It will be useful for the user who doesn't have enough computing power to start 
 
 ### Prerequisite for User
 ```
-It is needed to install ssh client to access the server.
+1. It is needed to install ssh client to access the server.
+2. Then, user will reach to the server of the permitted session.
+3. User can run the the following.
+    >>cd docker_android_studio/
+    >>HOST_DISPLAY=1 ./run.sh
+4. Android Studio will be started.
 ```
+................................................................................
+
+### Prerequisite for Server Administrator
 
 ### How to get the project
 ```
-git clone (or) download the project zip 
+1. git clone (or) download the project zip 
+2. put the project under each user session of the server.
 ```
 
-### How to run the project
-```
->>cd docker_android_studio/
->>HOST_DISPLAY=1 ./run.sh
 ```
 ### Only for Server
 ```
