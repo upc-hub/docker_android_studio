@@ -14,7 +14,7 @@ git clone (or) download the project zip
 
 ### How to run the project
 ```
->>cd docker_android_studio
+>>cd docker_android_studio/
 >>HOST_DISPLAY=1 ./run.sh
 ```
 ### Only for server
