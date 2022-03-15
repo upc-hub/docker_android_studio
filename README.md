@@ -17,5 +17,10 @@ git clone (or) download the project zip
 >>cd docker_android_studio
 >>HOST_DISPLAY=1 ./run.sh
 ```
+### Only for server
+```
+It is needed to install Docker. Then,
+>>docker pull pollen5005/android_studio_hh:v1
+```
 ### Workflow Design
 ![hein_docker(1)](https://user-images.githubusercontent.com/79504426/158392451-db89cbb2-b84f-4f67-a989-f54559a483b2.png)
