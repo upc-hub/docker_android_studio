@@ -6,7 +6,7 @@ It will be useful for the user who doesn't have enough computing power to start 
 ```
 1. It is needed to install ssh client to access the server.
 2. Then, user will reach to the server of the permitted session.
-3. User can run the the following.
+3. User can run the following.
     >>cd docker_android_studio/
     >>HOST_DISPLAY=1 ./run.sh
 4. Android Studio will be started.
