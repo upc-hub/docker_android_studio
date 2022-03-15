@@ -2,7 +2,7 @@
 Android Studio Docker container can be run on the server. User can use Android Studio via ssh with authorized access without installing it on their own PC.
 It will be useful for the user who doesn't have enough computing power to start Android Studio.
 
-### Prerequisite
+### Prerequisite for User
 ```
 It is needed to install ssh client to access the server.
 ```
@@ -17,7 +17,7 @@ git clone (or) download the project zip
 >>cd docker_android_studio/
 >>HOST_DISPLAY=1 ./run.sh
 ```
-### Only for server
+### Only for Server
 ```
 It is needed to install Docker. Then,
 >>docker pull pollen5005/android_studio_hh:v1
