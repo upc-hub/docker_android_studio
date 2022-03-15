@@ -11,7 +11,7 @@ It will be useful for the user who doesn't have enough computing power to start 
     >>HOST_DISPLAY=1 ./run.sh
 4. Android Studio will be started.
 ```
-................................................................................
+___________________________________________________________________________________________________________________________________________________
 
 ### Prerequisite for Server Administrator
 ```
