@@ -18,4 +18,4 @@ git clone (or) download the project zip
 >>HOST_DISPLAY=1 ./run.sh
 
 ```
-![hein_docker](https://user-images.githubusercontent.com/79504426/158391958-7eb928da-c298-408f-9da0-d0cfa4a7e7a8.png)
+![hein_docker(1)](https://user-images.githubusercontent.com/79504426/158392451-db89cbb2-b84f-4f67-a989-f54559a483b2.png)
