@@ -4,5 +4,12 @@ It will be useful for the user who doesn't have enough computing power to start 
 
 ### How to get the project
 ```
-Just download zip folder or clone the repo using git command on your system.
+git clone (or) download the project zip 
+```
+
+### How to run the project
+```
+>>cd docker_android_studio
+>>HOST_DISPLAY=1 ./run.sh
+
 ```
