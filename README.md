@@ -14,6 +14,10 @@ It will be useful for the user who doesn't have enough computing power to start 
 ................................................................................
 
 ### Prerequisite for Server Administrator
+```
+It is needed to install Docker. Then,
+>>docker pull pollen5005/android_studio_hh:v1
+```
 
 ### How to get the project
 ```
@@ -21,11 +25,5 @@ It will be useful for the user who doesn't have enough computing power to start 
 2. put the project under each user session of the server.
 ```
 
-
-### Only for Server
-```
-It is needed to install Docker. Then,
->>docker pull pollen5005/android_studio_hh:v1
-```
 ### Workflow Design
 ![hein_docker(1)](https://user-images.githubusercontent.com/79504426/158392451-db89cbb2-b84f-4f67-a989-f54559a483b2.png)
