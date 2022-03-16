@@ -29,3 +29,14 @@ ________________________________________________________________________________
 ### Workflow Design
 ![hein_docker(1)](https://user-images.githubusercontent.com/79504426/158392451-db89cbb2-b84f-4f67-a989-f54559a483b2.png)
 ___________________________________________________________________________________________________________________________________________________
+### User Manual (for current testing)
+1. Install Docker on Server
+2. Pull the Docker image from Docker Hub using the following command:
+>>docker pull pollen5005/android_studio_hh:v1
+(I created this image which installed Android Studio)
+3. Download the project from GitHub
+>>git clone https://github.com/upc-hub/docker_android_studio
+4. Change the directory to the downloaded project
+5. Run the shell file using the following command:
+>>HOST_DISPLAY=1 ./run.sh
+6. Finally, it will open the Android Studio for creating the android project.
