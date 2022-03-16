@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ### Workflow Design
 ![hein_docker(1)](https://user-images.githubusercontent.com/79504426/158392451-db89cbb2-b84f-4f67-a989-f54559a483b2.png)
 ___________________________________________________________________________________________________________________________________________________
-### User Manual (for current testing)
+### User Manual (for the current testing)
 1. Install Docker on Server
 2. Pull the Docker image from Docker Hub using the following command:
 >>docker pull pollen5005/android_studio_hh:v1
