@@ -33,10 +33,19 @@ ________________________________________________________________________________
 1. Install Docker on Server
 2. Pull the Docker image from Docker Hub using the following command:
 >>docker pull pollen5005/android_studio_hh:v1
-(I created this image which installed Android Studio)
 3. Download the project from GitHub
 >>git clone https://github.com/upc-hub/docker_android_studio
 4. Change the directory to the downloaded project
 5. Run the shell file using the following command:
 >>HOST_DISPLAY=1 ./run.sh
 6. Finally, it will open the Android Studio for creating the android project.
+
+### User Manual (for the next testing)
+1. Create space for each student at server (add new user in server)
+2.  Under each space, put the project downloaded from GitHub
+3. Student can access designated space via ssh 
+(eg. ssh hein@114.6.25.185)
+4. After student reached to the server, only the following script is needed to run.
+ >>HOST_DISPLAY=1 ./run.sh
+___________________________________________________________________________________________________________________________________________________
+
